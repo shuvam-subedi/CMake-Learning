@@ -1,8 +1,7 @@
 #include <iostream>
-#include <cstdlib>
+using namespace std;
 
 int main() {
-    std::cout << __cplusplus << std::endl;
-    system("pause");
+    cout << "Hello, World!";
     return 0;
 }
