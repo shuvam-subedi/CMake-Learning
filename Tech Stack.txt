@@ -1,0 +1,23 @@
+Language:
+	C++ 20
+
+Build:
+	CMake
+
+Window/Input:
+	SDL3
+
+Graphics:
+	OpenGL
+
+Debug UI:
+	Dear ImGui
+
+Testing:
+	Catch2
+
+Physics:
+	MY OWN CODE
+
+Math:
+	MY OWN CODE/geometry code

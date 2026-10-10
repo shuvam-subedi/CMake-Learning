@@ -1,0 +1,16 @@
+{
+    "version": 11,
+    "configurePresets": [
+        {
+            "name": "default",
+            "description": "Default configure preset",
+            "hidden": false,
+            "generator": "Ninja",
+            "binaryDir": "${sourceDir}/build/${presetName}",
+            "cacheVariables": {
+                "CMAKE_BUILD_TYPE": "Debug",
+                "CMAKE_EXPORT_COMPILE_COMMANDS": "YES"
+            }
+        }
+    ]
+}

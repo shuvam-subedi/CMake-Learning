@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Win32-ninja"
+	BuildStamp="20261010-1055-Experimental"
+	Name="DESKTOP-KL1IS7J"
+	Generator="ctest-4.4.4"
+	CompilerName="C:/MinGW/bin/c++.exe"
+	CompilerVersion="6.3.0"
+	OSName="Windows"
+	Hostname="DESKTOP-KL1IS7J"
+	OSRelease="10.0.19045"
+	OSVersion="Windows 10"
+	OSPlatform="AMD64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="14"
+	ModelName=""
+	ProcessorCacheSize="-1"
+	NumberOfLogicalCPU="4"
+	NumberOfPhysicalCPU="2"
+	TotalVirtualMemory="6000"
+	TotalPhysicalMemory="12197"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="2304.000000"
+	>
+	<Testing>
+		<StartDateTime>Oct 10 16:46 Nepal Standard Time</StartDateTime>
+		<StartTestTime>1791630089</StartTestTime>
+		<TestList/>
+		<EndDateTime>Oct 10 16:46 Nepal Standard Time</EndDateTime>
+		<EndTestTime>1791630089</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

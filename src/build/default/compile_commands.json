@@ -1,0 +1,8 @@
+[
+{
+  "directory": "F:/PROJECTS/Physics Engine Project/src/build/default",
+  "command": "C:\\MinGW\\bin\\c++.exe -g -o CMakeFiles\\check.dir\\check.cpp.obj -c \"F:\\PROJECTS\\Physics Engine Project\\src\\check.cpp\"",
+  "file": "F:/PROJECTS/Physics Engine Project/src/check.cpp",
+  "output": "F:/PROJECTS/Physics Engine Project/src/build/default/CMakeFiles/check.dir/check.cpp.obj"
+}
+]
